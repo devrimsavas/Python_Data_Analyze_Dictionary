@@ -1,0 +1,1 @@
+This program was written to demonstrate the flexibility and power of the python dictionary. The program shows records, adds new contacts, adds new interests to existing contacts. The program displays the gender and age distribution by creating graphics from the records.
